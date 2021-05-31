@@ -1,6 +1,6 @@
 # THE CRYPTO CURRENCY PROFITABILITY CLUSTER ANALYSIS
 
-In this current Cryptocurrency Market, volatility is always expected as it has been for many years. New and seasoned investors must educate themselves before entering a short term trade or invest in long term holds. They must look at potential returns and the volatility of each asset, but they must also include other factors that might impact the crypto market—leading to better performance for their portfolio.
+In this current Cryptocurrency Market, volatility is always expected as it has been for many years. New and seasoned investors must educate themselves before entering a short term trade or invest in long term holds. They must look at potential returns and the volatility of each asset and they must also include other factors that might impact the crypto market—leading to better performance for their portfolio.
 
 This project uses unsupervised machine learning applications: clustering and dimensionality reduction in creating a portfolio showing groups of cyptocurrency assets by their performance in different time periods. An elbow graph and scatter plot are utilized for visualization.
 
